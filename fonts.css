@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Lato';
+  src: url('fonts/Lato-Bold.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Scribble Box';
+  src: url('fonts/ScribbleBox.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('fonts/OpenSans-Regular.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
